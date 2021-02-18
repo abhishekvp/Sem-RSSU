@@ -1,7 +1,9 @@
 # Sem-RSSU
 Ontologies for Semantics-driven Remote Sensing Scene Understanding(Sem-RSSU) Framework
 
-![Natural Language Scene Description rendered by Sem-RSSU framework](https://raw.githubusercontent.com/abhishekvp/Sem-RSSU/main/semRSSU-result.jpg)
+| ![Grounded Natural Language Scene Description rendered by Sem-RSSU framework](https://raw.githubusercontent.com/abhishekvp/Sem-RSSU/main/semRSSU-result.jpg) | 
+|:--:| 
+| *Grounded Natural Language Scene Description rendered by Sem-RSSU framework for a Remote Sensing Scene depicting Urban Flood* |
 
 * Research Paper: https://doi.org/10.3390/ijgi10010032
 
