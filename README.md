@@ -1,6 +1,8 @@
 # Sem-RSSU
 Ontologies for Semantics-driven Remote Sensing Scene Understanding(Sem-RSSU) Framework
 
+![alt text](https://www.mdpi.com/ijgi/ijgi-10-00032/article_deploy/html/images/ijgi-10-00032-g001-550.jpg)
+
 * Research Paper: https://doi.org/10.3390/ijgi10010032
 
 The ontologies have been published online.
