@@ -1,4 +1,4 @@
-# Semantics driven Remote Sensing Scene Understanding Framework (Sem-RSSU)
+# Semantics-driven Remote Sensing Scene Understanding Framework (Sem-RSSU)
 
 The Sem-RSSU framework proposes to fuse **Deep Learning based Classification** with a **Knowledge based approach** for formalization and mining of contextual spatial semantics in the form of **Knowledge Graphs** from Remote Sensing Scenes, to render **Contextual Grounded Natural Language Scene Descriptions** for enhanced situational awareness.
 
