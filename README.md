@@ -1,4 +1,4 @@
-# Semantics Driven Remote Sensing Scene Understanding Framework (Sem-RSSU)
+# Semantics driven Remote Sensing Scene Understanding Framework (Sem-RSSU)
 
 The Sem-RSSU framework proposes to fuse **Deep Learning based Classification** with a **Knowledge based approach** for formalization and mining of contextual spatial semantics in the form of **Knowledge Graphs** from Remote Sensing Scenes, to render **Contextual Grounded Natural Language Scene Descriptions** for enhanced situational awareness.
 
@@ -19,7 +19,7 @@ The ontologies developed in this work have been published online.
 * **Remote Sensing Scene Ontology** - http://geosysiot.in/rsso
 * **Flood Scene Ontology** - http://geosysiot.in/fso
 
-***
+---
 * **Research Paper**: https://doi.org/10.3390/ijgi10010032
 
 Please feel free to re-use and extend the Ontologies.
